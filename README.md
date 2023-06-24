@@ -2,6 +2,6 @@
 
 # H1
 
-**Sample text**
+_Sample text_
 ## H2
 ### H3
